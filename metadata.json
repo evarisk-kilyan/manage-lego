@@ -1,0 +1,7 @@
+{
+  "name": "TrackMyBrick - Lego Build Tracker",
+  "description": "A comprehensive Lego build performance tracker. Monitor build times per bag, analyze your assembly speed, and get personalized building insights from Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
